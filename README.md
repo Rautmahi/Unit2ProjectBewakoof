@@ -4,6 +4,15 @@ available on this website such as jeans, shirts, mobile covers, shoes, bags, etc
 handling the front-end part and created footer,landing page and payment page.
 <br/>
 <br/>
+## Deployment Link
+[Live Netlify Link](https://radiant-alpaca-ceefd6.netlify.app/)
+
+## Techs We Use
+- `HTML`
+- `CSS`
+- `JS`
+<br/>
+
 
 ![a](https://user-images.githubusercontent.com/100849820/205709364-fb3677f6-6499-4990-96d7-d027ea56b409.png)
 <br/>
